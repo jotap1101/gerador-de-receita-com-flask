@@ -23,7 +23,7 @@ httplib2==0.22.0
 httpx==0.28.0
 idna==3.10
 itsdangerous==2.2.0
-Jinja2==3.1.4
+Jinja2==3.1.5
 jsonpatch==1.33
 jsonpointer==3.0.0
 langchain-core==0.3.21
